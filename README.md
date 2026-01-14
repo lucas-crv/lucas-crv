@@ -43,5 +43,5 @@ Sou um desenvolvedor focado na **Power Platform**, apaixonado por transformar de
 ---
 
 ### 📫 Vamos nos conectar!
-* [LinkedIn](SEU_LINK_AQUI)
+* [LinkedIn]([SEU_LINK_AQUI](https://www.linkedin.com/in/lucas-carvalho-santana-90b3711a2/))
 * [Meu Portfólio / Site](SEU_LINK_AQUI)
