@@ -1,8 +1,10 @@
 # Lucas Carvalho Santana — Power Platform Developer
+
 <div align="right">
   <a href="README.md"><img src="https://img.shields.io/badge/Português-green?style=for-the-badge" alt="Versão em PT-BR"></a>
   <a href="README.en.md"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge" alt="English Version"></a>
 </div>
+
 ### 🛠 Habilidades e Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/Power_Apps-001242?style=for-the-badge&logo=microsoft-power-apps&logoColor=white" />
