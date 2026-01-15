@@ -1,47 +1,103 @@
-# Lucas Carvalho Santana — Power Platform Developer
+# Lucas Carvalho Santana
+### Desenvolvedor Power Platform & Full-Stack 🚀
 
 <div align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/Português-green?style=for-the-badge" alt="Versão em PT-BR"></a>
-  <a href="README.en.md"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge" alt="English Version"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Português-blue?style=flat-square" alt="Versão em PT-BR"></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/English-grey?style=flat-square" alt="English Version"></a>
 </div>
-
-### 🛠 Habilidades e Tecnologias
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_Apps-001242?style=for-the-badge&logo=microsoft-power-apps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Automate-001242?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
 
 ---
 
-### 🚀 Sobre mim
-Sou um desenvolvedor focado na **Power Platform**, apaixonado por transformar desafios de negócios em soluções inteligentes e eficientes. Do desenvolvimento de aplicativos e automações à análise de dados e criação de chatbots.
+### 🚀 Sobre Mim
+Eu faço a ponte entre a **agilidade do low-code** e a **robustez do pro-code**. Com sólida experiência na Microsoft Power Platform e um mergulho profundo no desenvolvimento Full-Stack (React/Node.js), sou especialista em criar soluções de negócio seguras, escaláveis e centradas no usuário.
 
-* **Destaque:** Desenvolvi um sistema robusto de controle de remessas para uma grande empresa nos EUA.
-* **Foco atual:** Expandindo conhecimentos em IA e integração de sistemas.
+* **Expertise:** Resolução de lógicas complexas com Power Apps/Automate e construção de portais web de alta segurança com stacks modernas.
+* **Foco em Segurança:** Experiência no tratamento de dados sensíveis (PII) utilizando criptografia AES-256 e autenticação JWT.
+* **Impacto de Negócio:** Da orquestração de ecossistemas logísticos nos EUA à otimização de funis de recrutamento profissional.
+
+---
+
+### 🛠 Stack Técnica
+
+**Low-Code & Automação**
+![Power Apps](https://img.shields.io/badge/-Power_Apps-742774?style=flat&logo=microsoft-power-apps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/-Power_Automate-0066FF?style=flat&logo=microsoft-power-automate&logoColor=white)
+![Dataverse](https://img.shields.io/badge/-Dataverse-0078D4?style=flat&logo=microsoft-dataverse&logoColor=white)
+![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
+
+**Pro-Code (Full-Stack)**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Segurança & Ferramentas**
+![Segurança](https://img.shields.io/badge/-Criptografia_AES--256-red?style=flat)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=json-web-tokens)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
 ---
 
 ### 📂 Portfólio de Projetos
 
-#### ⚡ Power Platform & Automação
-| Projeto | Descrição | Status |
-| :--- | :--- | :--- |
-| **Shipping Control System** | Sistema de logística para empresa dos EUA. | ✅ Concluído |
-| **Google Maps Connector** | Conector personalizado para Power Apps. | 🛠 Em Manutenção |
-| **Pro Inove Requerimentos** | App de controle de requerimentos internos. | 🏗 Em Desenvolvimento |
-
-#### 🐍 Desenvolvimento Web & Python
-| Projeto | Tecnologias | Link |
-| :--- | :--- | :--- |
-| **Requirement Control Web** | Python, Flask, SQLite | [Ver Repositório](link-aqui) |
-| **Lego Project Generator** | OpenCV, Python | [Ver Repositório](link-aqui) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📦 Ecossistema Logístico EUA</h4>
+      <p align="justify">
+        <b>Propósito:</b> Orquestração completa do ciclo de remessas para uma empresa americana. Desenvolvimento de um ecossistema com 6 apps para centralizar dados e automatizar despachos.
+      </p>
+      <code>PowerApps</code> <code>Automate</code> <code>Arquitetura</code>
+      <br><br>
+      <a href="https://github.com/lucas-crv">
+        <img src="https://img.shields.io/badge/Ver_Projeto-001242?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📑 Portal de Recrutamento</h4>
+      <p align="justify">
+        <b>Propósito:</b> Plataforma full-stack para contratação de motoristas. Implementa criptografia AES-256, assinaturas digitais e geração automatizada de PDFs oficiais.
+      </p>
+      <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Auth</code>
+      <br><br>
+      <a href="https://github.com/lucas-crv">
+        <img src="https://img.shields.io/badge/Ver_Projeto-001242?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📶 Applus Offline Entry</h4>
+      <p align="justify">
+        <b>Propósito:</b> Criado para equipes de campo em áreas remotas. Garante 100% de integridade com recursos offline-first e sincronização automática em segundo plano.
+      </p>
+      <code>Offline-Sync</code> <code>PowerApps</code> <code>Dataverse</code>
+      <br><br>
+      <a href="https://github.com/lucas-crv">
+        <img src="https://img.shields.io/badge/Ver_Projeto-001242?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📍 Conector Google Maps</h4>
+      <p align="justify">
+        <b>Propósito:</b> Integração de geolocalização. Criação de um conector de API personalizado para injetar rotas e dados de mapas em tempo real nos fluxos de trabalho.
+      </p>
+      <code>Custom Connector</code> <code>JSON/API</code> <code>Maps</code>
+      <br><br>
+      <a href="https://github.com/lucas-crv">
+        <img src="https://img.shields.io/badge/Ver_Projeto-001242?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
+### 🎮 Além do Código
+Quando não estou arquitetando soluções, você me encontrará explorando **tendências de IA**, jogando ou treinando minha **cachorrinha**. Sou um entusiasta de tecnologia que adora acompanhar as últimas inovações de hardware e software.
+
 ### 📫 Vamos nos conectar!
-* [LinkedIn](https://www.linkedin.com/in/lucas-carvalho-santana-90b3711a2/)
-* [Meu Portfólio / Site](SEU_LINK_AQUI)
+* [LinkedIn](https://www.linkedin.com/in/lucas-carvalho-santana/)
+* [GitHub](https://github.com/lucas-crv)
