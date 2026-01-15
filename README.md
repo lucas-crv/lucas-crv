@@ -99,5 +99,5 @@ Eu faço a ponte entre a **agilidade do low-code** e a **robustez do pro-code**.
 Quando não estou arquitetando soluções, você me encontrará explorando **tendências de IA**, jogando ou treinando minha **cachorrinha**. Sou um entusiasta de tecnologia que adora acompanhar as últimas inovações de hardware e software.
 
 ### 📫 Vamos nos conectar!
-* [LinkedIn](https://www.linkedin.com/in/lucas-carvalho-santana/)
+* [LinkedIn](https://www.linkedin.com/in/lucas-carvalho-santana-90b3711a2/)
 * [GitHub](https://github.com/lucas-crv)
