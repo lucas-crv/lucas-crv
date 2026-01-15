@@ -99,5 +99,5 @@ I bridge the gap between **low-code agility** and **pro-code robustness**. With 
 When I'm not architecting solutions, you'll find me exploring new **AI trends**, gaming, or training my **puppy**. I'm a tech enthusiast who loves keeping up with the latest hardware and software innovations.
 
 ### 📫 Let's Connect!
-* [LinkedIn](https://www.linkedin.com/in/lucas-carvalho-santana/)
+* [LinkedIn](https://www.linkedin.com/in/lucas-carvalho-santana-90b3711a2/)
 * [GitHub](https://github.com/lucas-crv)
