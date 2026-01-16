@@ -51,7 +51,7 @@ Eu faço a ponte entre a **agilidade do low-code** e a **robustez do pro-code**.
       </p>
       <code>PowerApps</code> <code>Automate</code> <code>Arquitetura</code>
       <br><br>
-      <a href="https://github.com/lucas-crv">
+      <a href="https://github.com/lucas-crv/us-logistics-ecosystem">
         <img src="https://img.shields.io/badge/Ver_Projeto-001242?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
