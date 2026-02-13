@@ -56,7 +56,7 @@ Eu faço a ponte entre a **agilidade do low-code** e a **robustez do pro-code**.
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>📑 Portal de Recrutamento</h4>
+      <h4>📑 Portal de Recrutamento (EM CONSTRUÇÃO)</h4>
       <p align="justify">
         <b>Propósito:</b> Plataforma full-stack para contratação de motoristas. Implementa criptografia AES-256, assinaturas digitais e geração automatizada de PDFs oficiais.
       </p>
@@ -69,7 +69,7 @@ Eu faço a ponte entre a **agilidade do low-code** e a **robustez do pro-code**.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📶 Applus Offline Entry</h4>
+      <h4>📶 Applus Offline Entry (EM CONSTRUÇÃO)</h4>
       <p align="justify">
         <b>Propósito:</b> Criado para equipes de campo em áreas remotas. Garante 100% de integridade com recursos offline-first e sincronização automática em segundo plano.
       </p>
