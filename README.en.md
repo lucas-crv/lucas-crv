@@ -56,7 +56,7 @@ I bridge the gap between **low-code agility** and **pro-code robustness**. With 
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>📑 Driver Recruitment Portal</h4>
+      <h4>📑 Driver Recruitment Portal (IN CONSTRUCTION)</h4>
       <p align="justify">
         <b>Purpose:</b> Full-stack platform for driver hiring. Features PII encryption (AES-256), digital signatures, and automated official PDF generation.
       </p>
@@ -69,7 +69,7 @@ I bridge the gap between **low-code agility** and **pro-code robustness**. With 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📶 Applus Offline Entry</h4>
+      <h4>📶 Applus Offline Entry (IN CONSTRUCTION)</h4>
       <p align="justify">
         <b>Purpose:</b> Built for field teams in remote areas. Ensures 100% data integrity with offline-first capabilities and automated background synchronization.
       </p>
