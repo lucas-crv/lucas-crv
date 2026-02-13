@@ -86,7 +86,7 @@ I bridge the gap between **low-code agility** and **pro-code robustness**. With 
       </p>
       <code>Custom Connector</code> <code>JSON/API</code> <code>Maps</code>
       <br><br>
-      <a href="https://github.com/lucas-crv">
+      <a href="https://github.com/lucas-crv/powerapps-google-maps-connector">
         <img src="https://img.shields.io/badge/View_Project-001242?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
