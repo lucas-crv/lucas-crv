@@ -86,7 +86,7 @@ Eu faço a ponte entre a **agilidade do low-code** e a **robustez do pro-code**.
       </p>
       <code>Custom Connector</code> <code>JSON/API</code> <code>Maps</code>
       <br><br>
-      <a href="https://github.com/lucas-crv">
+      <a href="https://github.com/lucas-crv/powerapps-google-maps-connector">
         <img src="https://img.shields.io/badge/Ver_Projeto-001242?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
